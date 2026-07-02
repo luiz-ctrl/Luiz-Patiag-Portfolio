@@ -25,9 +25,42 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="photo-card">
+        <div className="certificate">
+          <div className="certificate-head">
+            <span>Republic of the Developer</span>
+            <span>No. 2026-0001</span>
+          </div>
+
           {/* Photo goes here — drop your image at public/images/profile.jpg */}
-          <img src="/images/profile.jpg" alt="Luiz Kieth Patiag" />
+          <div className="certificate-photo">
+            <img src="/images/profile.jpg" alt="Luiz Kieth Patiag" />
+          </div>
+
+          <div className="certificate-rows">
+            <div className="certificate-row">
+              <span>Name</span>
+              <span>Luiz Kieth Patiag</span>
+            </div>
+            <div className="certificate-row">
+              <span>Occupation</span>
+              <span>Web Developer</span>
+            </div>
+            <div className="certificate-row">
+              <span>Specialization</span>
+              <span>Full-Stack / Security</span>
+            </div>
+            <div className="certificate-row">
+              <span>Status</span>
+              <span>Available for work</span>
+            </div>
+            <div className="certificate-row">
+              <span>Based in</span>
+              <span>Philippines</span>
+            </div>
+          </div>
+          <div className="stamp">
+            <div className="stamp-text">VERIFIED<br />BUILDER</div>
+          </div>
         </div>
       </div>
     </section>

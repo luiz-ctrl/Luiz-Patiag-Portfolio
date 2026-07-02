@@ -3,10 +3,9 @@ export default function Header() {
     <header className="site-header">
       <div className="wrap">
         <a href="#top" className="brand">
-          <span className="brand-mark">
-            <img src="/images/profile.jpg" alt="Luiz Kieth Patiag" />
-          </span>
-          Luiz Kieth Patiag
+          <span className="brand-mark">L</span>
+          {/* TODO: replace with your full name */}
+          Luiz
         </a>
         <ul className="nav-links">
           <li><a href="#about"><span className="n">01 · </span>About</a></li>
