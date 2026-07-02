@@ -20,15 +20,15 @@ export default function Contact() {
             </div>
             <div className="contact-links">
               {/* TODO: replace with your real email */}
-              <a href="mailto:you@example.com" className="contact-link">
-                <span className="arrow">→</span> you@example.com
+              <a href="patiagluiz27@gmail.com" className="contact-link">
+                <span className="arrow">→</span> patiagluiz27@gmail.com
               </a>
               {/* TODO: replace with your GitHub URL */}
               <a href="https://github.com/luiz-ctrl" target="_blank" rel="noreferrer" className="contact-link">
                 <span className="arrow">→</span> github.com/luiz-ctrl
               </a>
               {/* TODO: replace with your LinkedIn URL */}
-              <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer" className="contact-link">
+              <a href="https://linkedin.com/in/your-profilehttps://www.linkedin.com/in/patiag-luiz-kieth-75a237306/" target="_blank" rel="noreferrer" className="contact-link">
                 <span className="arrow">→</span> linkedin.com/in/your-profile
               </a>
             </div>
