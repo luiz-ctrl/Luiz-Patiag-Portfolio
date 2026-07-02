@@ -5,7 +5,7 @@ export default function About() {
     <section id="about">
       <div className="wrap">
         <Reveal>
-          <p className="eyebrow">Entry No. 01 — About</p>
+          <p className="eyebrow">About</p>
           <h2 className="section-title">From the front desk to the back end</h2>
         </Reveal>
 

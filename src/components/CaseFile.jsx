@@ -26,7 +26,7 @@ export default function CaseFile() {
     <section id="case-file">
       <div className="wrap">
         <Reveal>
-          <p className="eyebrow">Entry No. 02 — Featured Case File</p>
+          <p className="eyebrow">Featured Case File</p>
           <h2 className="section-title">MCRO Civil Registrar System</h2>
           <p className="section-lede">
             A production web system built for a real municipal government
@@ -59,7 +59,7 @@ export default function CaseFile() {
                 and swap the placeholder div below for:
                 <img src="/images/mcro-screenshot.png" alt="MCRO site screenshot" /> */}
             <div className="screenshot-frame">
-              [ Screenshot of mcrogenluna.online goes here ]
+                <img src="/images/mcro-screenshot.png" alt="MCRO site screenshot" />
             </div>
 
             <div className="case-body">

@@ -5,7 +5,7 @@ export default function Projects() {
     <section id="projects">
       <div className="wrap">
         <Reveal>
-          <p className="eyebrow">Entry No. 03 — Other Work</p>
+          <p className="eyebrow">Other Work</p>
           <h2 className="section-title">More builds</h2>
         </Reveal>
 

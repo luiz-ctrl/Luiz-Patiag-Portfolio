@@ -6,14 +6,13 @@ export default function Header() {
           <span className="brand-mark">
             <img src="/images/profile.jpg" alt="Luiz Kieth Patiag" />
           </span>
-          Luiz Kieth Patiag
         </a>
         <ul className="nav-links">
-          <li><a href="#about"><span className="n">01 · </span>About</a></li>
-          <li><a href="#case-file"><span className="n">02 · </span>Case File</a></li>
-          <li><a href="#projects"><span className="n">03 · </span>Projects</a></li>
-          <li><a href="#skills"><span className="n">04 · </span>Skills</a></li>
-          <li><a href="#contact"><span className="n">05 · </span>Contact</a></li>
+          <li><a href="#about"><span className="n"></span>About</a></li>
+          <li><a href="#case-file"><span className="n"></span>Case File</a></li>
+          <li><a href="#projects"><span className="n"></span>Projects</a></li>
+          <li><a href="#skills"><span className="n"></span>Skills</a></li>
+          <li><a href="#contact"><span className="n"></span>Contact</a></li>
         </ul>
       </div>
     </header>

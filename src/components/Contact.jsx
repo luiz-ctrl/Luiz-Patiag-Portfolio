@@ -5,7 +5,7 @@ export default function Contact() {
     <section id="contact">
       <div className="wrap">
         <Reveal>
-          <p className="eyebrow">Entry No. 05 — File a Request</p>
+          <p className="eyebrow">File a Request</p>
           <h2 className="section-title" style={{ marginBottom: 40 }}>Let's work together</h2>
         </Reveal>
 

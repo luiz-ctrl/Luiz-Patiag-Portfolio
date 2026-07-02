@@ -28,7 +28,7 @@ export default function Skills() {
     <section id="skills">
       <div className="wrap">
         <Reveal>
-          <p className="eyebrow">Entry No. 04 — Skills on Record</p>
+          <p className="eyebrow">Skills on Record</p>
           <h2 className="section-title">What I bring to a project</h2>
         </Reveal>
 
