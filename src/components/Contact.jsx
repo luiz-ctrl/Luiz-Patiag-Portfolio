@@ -1,0 +1,40 @@
+import Reveal from "./Reveal.jsx";
+
+export default function Contact() {
+  return (
+    <section id="contact">
+      <div className="wrap">
+        <Reveal>
+          <p className="eyebrow">Entry No. 05 — File a Request</p>
+          <h2 className="section-title" style={{ marginBottom: 40 }}>Let's work together</h2>
+        </Reveal>
+
+        <Reveal>
+          <div className="contact-panel">
+            <div>
+              <h2>Have a project in mind?</h2>
+              <p>
+                I'm open to freelance web development work — from small
+                fixes to full builds. Reach out and I'll get back to you.
+              </p>
+            </div>
+            <div className="contact-links">
+              {/* TODO: replace with your real email */}
+              <a href="patiagluiz27@gmail.com" className="contact-link">
+                <span className="arrow">→</span> patiagluiz27@gmail.com
+              </a>
+              {/* TODO: replace with your GitHub URL */}
+              <a href="https://github.com/luiz-ctrl" target="_blank" rel="noreferrer" className="contact-link">
+                <span className="arrow">→</span> github.com/luiz-ctrl
+              </a>
+              {/* TODO: replace with your LinkedIn URL */}
+              <a href="https://www.linkedin.com/in/patiag-luiz-kieth-75a237306/" target="_blank" rel="noreferrer" className="contact-link">
+                <span className="arrow">→</span> linkedin.com/in/patiag-luiz-kieth-75a237306/
+              </a>
+            </div>
+          </div>
+        </Reveal>
+      </div>
+    </section>
+  );
+}
