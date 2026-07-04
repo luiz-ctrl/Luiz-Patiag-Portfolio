@@ -7,11 +7,6 @@ export default function Hero() {
           <h1 className="hero-name">
             Luiz Kieth Patiag
           </h1>
-          <p className="hero-role">
-            Full-stack developer — <em style={{ fontStyle: "italic", color: "var(--brass)" }}>
-              building and hardening apps people rely on
-            </em>
-          </p>
           <p className="hero-pitch">
             BS Information Technology, 2026. I design, build, and secure
             production web applications — most recently a live local
