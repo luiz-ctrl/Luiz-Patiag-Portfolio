@@ -14,10 +14,8 @@ export default function Hero() {
           </p>
           <p className="hero-pitch">
             BS Information Technology, 2026. I design, build, and secure
-            production web applications — most recently a live government
-            civil registrar system now serving a municipality of over
-            25,000 residents.
-            {/* TODO: swap in your municipality's population if you'd like a real number here, or remove */}
+            production web applications — most recently a live local
+            civil registrar system now serving a municipality of over of General Luna, Quezon.
           </p>
           <div className="hero-actions">
             <a href="#case-file" className="btn btn-primary">View the case file →</a>

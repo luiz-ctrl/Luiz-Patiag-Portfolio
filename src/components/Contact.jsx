@@ -27,10 +27,6 @@ export default function Contact() {
               <a href="https://github.com/luiz-ctrl" target="_blank" rel="noreferrer" className="contact-link">
                 <span className="arrow">→</span> github.com/luiz-ctrl
               </a>
-              {/* TODO: replace with your LinkedIn URL */}
-              <a href="https://linkedin.com/in/your-profilehttps://www.linkedin.com/in/patiag-luiz-kieth-75a237306/" target="_blank" rel="noreferrer" className="contact-link">
-                <span className="arrow">→</span> linkedin.com/in/your-profile
-              </a>
             </div>
           </div>
         </Reveal>

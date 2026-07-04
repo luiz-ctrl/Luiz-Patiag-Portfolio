@@ -17,7 +17,7 @@ const engineering = [
   "Replaced a broken in-memory rate limiter with Upstash Redis — the correct approach for stateless Vercel serverless functions.",
   "Migrated admin authentication from email-based to username-based login across the full stack.",
   "Improved the securityheaders.com grade from D to A by implementing proper HTTP security headers.",
-  "Converted images to WebP and added lazy loading; built sitemap generation, Google Search Console integration, and JSON-LD GovernmentOffice structured data for SEO.",
+  "Converted images to WebP and added lazy loading; built sitemap generation, Google Search Console integration, and JSON-LD Municipal Office structured data for SEO.",
   "Added a focus trap and Escape-key handling to modals, and corrected color-contrast issues for accessibility.",
 ];
 
@@ -29,7 +29,7 @@ export default function CaseFile() {
           <p className="eyebrow">Featured Case File</p>
           <h2 className="section-title">MCRO Civil Registrar System</h2>
           <p className="section-lede">
-            A production web system built for a real municipal government
+            A production web system built for a Local Municipal Civil Registrar's
             office — from first commit to a hardened, publicly live deployment.
           </p>
         </Reveal>

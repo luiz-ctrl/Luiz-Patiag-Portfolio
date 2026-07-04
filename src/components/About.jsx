@@ -15,7 +15,7 @@ export default function About() {
               I graduated with a <strong>BS in Information Technology in 2026</strong> and
               now work as a freelance web developer based in the Philippines. My
               first real-world project wasn't a toy app — it was a{" "}
-              <strong>government web system</strong> for a Municipal Civil
+              <strong>local web system</strong> for a Municipal Civil
               Registrar's Office, built and shipped to production, end to end.
             </p>
             <p>
